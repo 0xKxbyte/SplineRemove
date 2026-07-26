@@ -22,7 +22,7 @@
 
 ---
 
-## 📌 Sobre
+## Sobre
 
 O **Spline Ads Remover** é um script desenvolvido em JavaScript que monitora o carregamento do Spline Viewer e remove automaticamente o anúncio/logo localizado no canto inferior direito.
 
@@ -30,7 +30,7 @@ O projeto utiliza manipulação do **Shadow DOM** para encontrar e remover o ele
 
 ---
 
-## 🚀 Recursos
+## Recursos
 
 - Remoção automática do logo do Spline.
 - Desenvolvido em JavaScript.
@@ -53,9 +53,10 @@ O projeto utiliza manipulação do **Shadow DOM** para encontrar e remover o ele
 
 ---
 
-## 💻 Código
+## Código
 
 ```javascript
+//Versão 1.0
 (function() {
         // Cria um monitoramento em loop que roda a cada 50 milissegundos para agir o mais rápido possível
         const removerLogo = setInterval(() => {
@@ -80,7 +81,7 @@ O projeto utiliza manipulação do **Shadow DOM** para encontrar e remover o ele
 
 ---
 
-## 📜 Licença
+## Licença
 
 Este projeto é distribuído sob a **Licença MIT**.
 
