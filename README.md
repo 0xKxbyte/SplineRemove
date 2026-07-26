@@ -1,7 +1,7 @@
 # Spline Ads Remover | SplineRemover
 
 <p align="center">
-  <img src="https://app.spline.design/_assets/_images/social/spline-cover.png" alt="Spline Banner" width="100%">
+  <img src="https://spline.design/_next/static/media/spline_image_banner.77c2eb63.png" alt="Spline Banner" width="100%">
 </p>
 
 <p align="center">
